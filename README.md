@@ -4,12 +4,12 @@
 
 
 ## Basic Details
-### Team Name: [Your Team Name]
+### Team Name: Tetris
 
 
 ### Team Members
 - Team Lead: Safwan Muhammed - Cochin University of Science and Technology
-- Member 2: Adithya Dev B - Cochin University of Science and Technology
+- Member 2: Aditya Dev B - Cochin University of Science and Technology
 
 ### Project Description
 An interactive, hyper-realistic seashore experience where you hand-draw text directly onto the coastal sand. A 2D silhouette boy sits faithfully on a rock on the shore counting each incoming wave, while Google Gemini Vision AI inspects your strokes in real time—the moment you dare write *"Kadalamma Kalli"* (Mother Sea, the thief), she takes offence and summons an unstoppable ocean wave that washes your writing completely away!
@@ -105,7 +105,7 @@ graph TD
 
 ## Team Contributions
 - **Safwan Muhammed**: Core architecture, Next.js application, Canvas sand rendering engine, Gemini Vision API integration, video wave synchronization, and wave counting companion.
-- **Adithya Dev B**: UI/UX design, interactive aesthetic enhancements, audio curation, and testing.
+- **Aditya Dev B**: UI/UX design, interactive aesthetic enhancements, audio curation, and testing.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
